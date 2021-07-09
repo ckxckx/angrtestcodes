@@ -1,0 +1,1 @@
+gcc case2.c -o case2 -O0
